@@ -4,7 +4,6 @@ ESP32 project that reads light intensity from an LDR and triggers LED and buzzer
 
 # ESP32 LDR + LED + Buzzer Project
 
-![Project Photo](images/project_photo.jpg)
 Photo of the assembled ESP32 project with LDR, LED, and Buzzer.
 
 ## 📄 Description
