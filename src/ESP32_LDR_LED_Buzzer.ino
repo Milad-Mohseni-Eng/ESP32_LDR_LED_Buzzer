@@ -1,6 +1,8 @@
 // --- LDR + LED + Buzzer (ESP32) ---
 // Project: Light-Activated Alert System
-// Author: [Your Name]
+// Author: Milad Mohseni
+
+
 // Description: This project reads light intensity using an LDR (Light Dependent Resistor)
 // and triggers both an LED and a buzzer when the light level exceeds a certain threshold.
 // The LED turns on while the light is detected, and the buzzer emits a short audible alert.
